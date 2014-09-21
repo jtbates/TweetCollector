@@ -40,7 +40,7 @@ function getTweets(srch) {
 			 });
 		});
 		setTimeout(function(){
-		  process.exit(0);
+		  //process.exit(0);
 		}, 10000);
 	});
 }
